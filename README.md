@@ -1,4 +1,4 @@
-# black-copper-hound
+# vue3-vercel-scaffolding
 
 ## Project setup
 ```
